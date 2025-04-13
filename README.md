@@ -7,7 +7,7 @@ Nous avons utilisé la méthode d'Otsu pour segmenter des images. L'image choisi
 - Chargement d'une image locale avec **app.py**  
 - Interface utilisateur avec **Streamlit** pour uploader ses propres fichiers  
 - Génération d'images binaires à partir d'images d'animaux issues de Freepik  
-- Visualisation des résultats avec **visualisation.py**  
+- Visualisation des résultats avec **visualisation.py** en faisant **streamlit run visualisation.py**
 
 ## Installation  
 Assurez-vous d'installer les dépendances nécessaires avec :  
