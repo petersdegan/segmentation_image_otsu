@@ -5,7 +5,7 @@ Nous avons utilisé la méthode d'Otsu pour segmenter des images. L'image choisi
 
 ## Fonctionnalités  
 - Chargement d'une image locale avec **app.py**  
-- Interface utilisateur avec **Streamlit** pour uploader ses propres fichiers  
+- Interface utilisateur avec **Streamlit** pour uploader ses propres fichiers et lancer dans le terminal **py app.py** 
 - Génération d'images binaires à partir d'images d'animaux issues de Freepik  
 - Visualisation des résultats avec **visualisation.py** en faisant **streamlit run visualisation.py**
 
